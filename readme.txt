@@ -21,8 +21,16 @@ html (EJS),
 css (Bootstrap)
 NODE js (express and fewe other dependencies)
 FLASK  (with few other dependencies)
+Machine Learning: Python (with TensorFlow)
 
 CREDITS:
 ********
 Me and my team built this applicaion for Smart India Hackathon.
+Team Members:
+Yadeesh T
+Varun Krishnan
+Gokul Ram K
+Aarthi G
+Sreesh Jambulingam
+Pranesh Shivanchalam
 <will soon post the linkedIn post here>
